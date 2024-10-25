@@ -24,6 +24,10 @@ chmod 744 myfile
 
 #### 5.
 
+Dans un script, écrire le code suivant puis l'exécuter dans bash.
+
+#!/bin/bash
+
 echo 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :'
 
 echo '- "Bonjour est-ce que ce clavier fonctionne bien ?"'
