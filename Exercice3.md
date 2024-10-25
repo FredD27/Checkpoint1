@@ -57,7 +57,7 @@ Couche 3 : on retrouve des routeurs qui permettent de communiquer en réseau en 
 
 #### 9. Dans la trame ethernet, qu'est-ce que le payload ?
 
-Le payload représente les données transportées par la trame.
+Le payload représente les données réelles transportées par la trame.
 
 #### 10. Pourquoi les classes IP sont remplacées par le CIDR ?
 
