@@ -1,3 +1,5 @@
+# Exercice 3
+
 #### 1. Donne une ligne de commande bash qui permet de lister la liste des utilisateurs d'un système Linux
 
 cat /etc/passwd
