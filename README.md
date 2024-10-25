@@ -14,6 +14,6 @@
  - Mettre en place, assurer et tester les sauvegardes et les restaurations des éléments de l’infrastructure
  - Exploiter et maintenir les services de déploiement des postes de travail
 
-**Exercice 1** Fait a temps
-**Exercice 2** Fait a temps
-**Exercice 3** Fait a temps
+**Exercice 1** Fait a temps                
+**Exercice 2** Fait a temps                            
+**Exercice 3** Fait a temps              
