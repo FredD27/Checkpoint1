@@ -56,6 +56,5 @@ Le payload représente les données réelles transportées par la trame.
 
 #### 10.
 
-git pull
 La structuration des adresses en classes a engendré des problèmes comme une pénurie dans l'attribution des adresses. Les classes C étaient trop petites et les classes B trop peu nombreuses.  
 Le CIDR a permis la possibilité de découper chaque adresse au besoin et d'attribuer des adresses IP de manière flexible et efficace sur les différents réseaux. Elle améliore donc l'efficacité du routage sur internet.
